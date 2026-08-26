@@ -1,0 +1,6 @@
+/**
+ * UnsupportedAudioFileException
+ */
+public class UnsupportedAudioFileException {
+
+}
